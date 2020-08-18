@@ -1,0 +1,22 @@
+.content{
+    max-width: calc(1000px - 80px);
+    width: calc(96% - 80px);
+    padding: 40px;
+    margin: 0 auto;
+    background-color: #ddd;
+}
+
+.content article{
+    background-color: #fff;
+    padding: 20px;
+    margin: 10px 0;
+}
+
+.radius{
+    border-radius: 5px;
+}
+
+article header img {
+    border: 1px solid #ddd;
+    width: 100%;
+}
